@@ -16,7 +16,7 @@ This project emulates a simplified Linux file system in which users can interact
 1. Ensure you have the required files (`Directory.cpp`, `File.cpp`, `main.cpp`, `System.cpp`, and `makefile`).
 2. Compile the code using the provided makefile.
 3. Run the application with the command:
-./<executable_name> <input_filename>./
+./<executable_name> <input_filename>
 Where `<executable_name>` is the name of the compiled binary and `<input_filename>` is the name of the file containing the initial state of the file system.
 
 ## Author
