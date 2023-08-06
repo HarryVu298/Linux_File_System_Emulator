@@ -22,11 +22,5 @@ Where `<executable_name>` is the name of the compiled binary and `<input_filenam
 ## Author
 Harry Vu
 
-## Revision History
-- 0 trial: Submit by mistake.
-- 1st: Test the code.
-- 2nd: Output error changes.
-... (and so on, as detailed in the code's comments)
-
 ## Notes
 Ensure the input file is formatted correctly. Each line should represent a file or directory with attributes like permissions, owner, group, size, and name.
