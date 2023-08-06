@@ -1,0 +1,7 @@
+dr-xr-xr-x 1  anna  acctg   145 anna
+-rwxr-xr-x 0  anna  acctg  1024 lab1.cpp
+-r--r-xr-x 0  anna  acctg 23068 lab1
+drw-rw-r-- 0  anna  acctg 12878 pictures
+-rw-rw-r-- 1  anna  acctg  2645 personnel.txt
+drw-r--r-- 0  anna  acctg  780 projects
+-rw-r----- 0  anna acctg   670 server.inf

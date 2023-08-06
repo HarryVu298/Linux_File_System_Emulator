@@ -1,0 +1,8 @@
+drwxr-xr-x 1  joe  acctg   145 joe
+-rwxr-xr-x 0  joe  acctg  1024 hello.doc
+drwxr-xr-x 1  joe  acctg 23068 archive
+drw-rw-r-- 0  joe  acctg 12878 orgchart
+-rw-rw-r-- 1  joe  acctg  2645 personnel.txt
+-rw-r--r-- 0  joe  acctg   168 publicity.html
+-rw-r----- 1  joe  acctg   512 topsecret.inf
+drwxr-xr-x 1  joe  acctg  2645 wordmatic
